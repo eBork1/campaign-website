@@ -1,0 +1,27 @@
+/* Social media icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 75px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa-facebook{
+    background: #2e5cf1;
+    color: white;
+}
+
+.fa-twitter{
+    background: #2ea9f1;
+    color: white;
+  
+}
+
+.fa-instagram{
+    background: #ca36aa;
+    color: white;
+
+}
+/**/
+
